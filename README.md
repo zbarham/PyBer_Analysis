@@ -16,7 +16,7 @@ From the data, it is clear that there are significant disparities in ride-sharin
 
 3. **Rural** cities have the lowest total number of rides (125) and drivers (78), reflecting the lower population density in these areas. However, they generate the highest average fare per ride ($34.62) and per driver ($55.49), potentially due to longer trip distances and less competition among drivers in rural areas.
 
-![Total_Fare_by_City_Type](https://github.com/zbarham/PyBer_Analysis/blob/main/analysis/Total_Fare_by_City_Type.png)
+![PyBer_fare_summary](https://github.com/zbarham/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 While urban cities lead in terms of total rides, drivers, and fares, rural and suburban cities command higher average fares per ride and driver.
 
