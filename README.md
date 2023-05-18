@@ -18,6 +18,8 @@ From the data, it is clear that there are significant disparities in ride-sharin
 
 ![Total_Fare_by_City_Type](https://github.com/zbarham/PyBer_Analysis/blob/main/analysis/Total_Fare_by_City_Type.png)
 
+While urban cities lead in terms of total rides, drivers, and fares, rural and suburban cities command higher average fares per ride and driver.
+
 ## Summary
 
 Based on the results of the analysis, the following three business recommendations can be made to address the disparities among city types:
